@@ -5,7 +5,7 @@
 
 I'm Bradley, a full-stack software engineer with experience in conquering real world problems in dynamic, remote tech teams with an affinity for React and curiosity in security. The creative mindset, working in agile teams and being part of something bigger, where the societal impact is exponential are the founding reasons of joining the industry and I am extremely excited as to what the future of tech holds. 
 
-My GitHub shows my rapid progress in programming since embarking on my journey at the School of Code. Have a look around and see what you think, I am currently working on a portfolio site that will be deployed within the coming week!
+My GitHub shows my progress in programming since embarking on my journey at the School of Code. Have a look around and see what you think, I am currently working on a portfolio site that will be deployed within the coming week!
 
 ### Technology Stack
 
