@@ -15,4 +15,4 @@ My GitHub shows my progress in programming since embarking on my journey at the 
 
 
  
-Feel free to get in touch, you can reach my on [LinkedIn](https://www.linkedin.com/in/bradleyjsmith1/) or via email at <brsm019@gmail.com>
+Feel free to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/bradleyjsmith1/) or via email at <brsm019@gmail.com>
