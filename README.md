@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/70659641/107946791-6c1d6300-6f89-11eb-847b-20d08935327c.png" align="center" width="30%" height="30%">
 </p> -->
