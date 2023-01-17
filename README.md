@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/70659641/107946791-6c1d6300-6f89-11eb-847b-20d08935327c.png" align="center" width="30%" height="30%">
 </p> -->
 
-I'm Bradley, a Full-Stack Software Engineer with experience in conquering real world problems in dynamic, remote tech teams with an affinity for React and curiosity in security. The creative mindset, working in agile teams and being part of something bigger, where the societal impact is exponential are the founding reasons for joining the industry and I am extremely excited as to what the future of tech holds. 
+A software engineer with expertise in algorithm design, cloud computing and proficiency in creating high-performance solutions that drive business success. As a full-stack developer and a qualified Google Cloud Associate Engineer, I am committed to staying at the forefront of my field and leveraging my skills to deliver innovative solutions.
 
 Here are some of the projects I have worked on!
 
