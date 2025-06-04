@@ -5,7 +5,5 @@
 ### About Me
 
 A software engineer with expertise in algorithm design, cloud computing and proficiency in creating high-performance solutions that drive business success.
-
-Here are some of the projects I have worked on!
  
 Feel free to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/bradleyjsmith1/) or via email at <brsm019@gmail.com>
